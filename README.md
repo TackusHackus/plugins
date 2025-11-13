@@ -1,45 +1,14 @@
 ## 🧩 Wait, wait! This README is work in progress! Please wait for full repo
 
-
-
-
-
-
-
 --- Actual Repo ---
 
-# 🧩 | Discord Plugins
-for Revenge, Kettu and more
+# 🧩 Discord Plugins for Revenge, Kettu and more
 
 ---
 
-Available Plugins
+📝 List of all plugins:
 
-1. InView
+### 🌐 InView
 
-Description: Opens external links directly inside Discord using an integrated WebView. Includes a top bar with a close button, a browser button, page title, and URL.
-
-Features:
-
-WebView integration for external links
-
-Close button [X]
-
-Browser button 🌐 (opens system browser)
-
-Safe filtering of Discord internal links (invites, channels, messages)
-
-Responsive layout for different screen sizes and themes
-
-
-Installation:
-
-1. Copy the InView/ folder into your mod's plugins/ directory or download if with url.
-
-
-2. Enable the plugin in the plugin manager.
-
-
-3. Click an external link to open it in WebView.
-
-> Note: In the plugin, the 🌐 icon is a proper SVG, not an emoji.
+1. Discription:
+ - This plugin was created to open links on Discord without a browser using WebView
