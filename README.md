@@ -1,5 +1,13 @@
 ## 🧩 Wait, wait! This README is work in progress! Please wait for full repo
 
+
+
+
+
+
+
+--- Actual Repo ---
+
 # 🧩 | Discord Plugins
 for Revenge, Kettu and more
 
