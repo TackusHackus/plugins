@@ -6,9 +6,18 @@
 
 ---
 
-📝 List of all plugins:
+# 📝 List of all plugins:
 
 ### 🌐 InView
 
-1. Discription:
+> ⚠️ Note: This plugin is in beta phase (pre-release)
+
+- Discription:
  - This plugin was created to open links on Discord without a browser using WebView
+- Functions:
+ - "Open in browser"
+ - made with Discord UI
+
+---
+# 🔌 Installation:
+ 
