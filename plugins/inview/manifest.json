@@ -1,0 +1,11 @@
+{
+  "name": "InView",
+  "description": "Open WebView instead of browser",
+  "version": "0.1",
+  "author": "Tackus",
+  "license": "MIT",
+  "main": "plugin.tsx",
+  "type": "plugin",
+  "minAppVersion": "1.0.0",
+  "tags": ["webview", "links", "ui", "tackus"]
+}
